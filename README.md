@@ -7,6 +7,3 @@ API REST con Spring Boot para prueba técnica desarrollador JAVA
 - coleción de pruebas en postman incluidas, crear la variable de entorno 'token' para correr la colección y que funcione.
 - intente hacer uso del servicio rest-assured para el testeo de la API REST pero no logré implementarlo de manera correcta, por lo cual necesito mas tiempo para leer la documentación y realizar la implementación correcta.
 - se incluyen algunos test unitarios con JUnit5 y Mockito de los servicios.
-
-## VIDEO DEMOSTRACIÓN
-
